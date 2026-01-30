@@ -98,3 +98,8 @@ Demonstrated Proficiency
 
 
 The integration of weight tracking functionality highlighted expertise in data management, UI design and application architecture. Through leveraging functionalities within Android Studio and adhering to industry standards the application showcased an understanding of knowledge, skills and experience, in mobile app development.
+
+## Author
+
+Brad Mills ([@MillsAirCode](https://github.com/MillsAirCode))
+
